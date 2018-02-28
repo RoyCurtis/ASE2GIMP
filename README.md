@@ -32,6 +32,21 @@ the colors may be off by one or two values. The plugin will warn you about this.
 * Grayscale palettes are not yet supported
 * The code is not exactly clean or DRY...
 
+# Notes
+
+References used for the ASE format:
+
+* http://carl.camera/default.aspx?id=109
+* http://www.selapa.net/swatches/colors/fileformats.php#adobe_ase
+* https://bazaar.launchpad.net/~olivier-berten/swatchbooker/trunk/view/head:/src/swatchbook/codecs/adobe_ase.py
+
+... and their archives, if they become lost to history:
+
+* http://archive.is/C2Fe6
+* http://archive.is/jFiTU
+* http://archive.is/AEB9m
+
+
 [ORIGINAL]: http://registry.gimp.org/node/10325
 [REDDIT]: https://www.reddit.com/r/GIMP/comments/80t574/kuler_palettes_to_gpl/
 [1]: https://i.imgur.com/lvaIRTi.jpg

@@ -2,8 +2,12 @@
 palette files by converting them into GIMP'S GPL format. The converted palette is
 automatically added to the user's GIMP palette library.
 
-[This script was originally written in 2008 by Chris Mohler][ORIGINAL]. It was updated by
-Roy Curtis in 2018 [after an issue report on reddit by /u/Adderbox76][REDDIT].
+[This script was originally written in 2008 by Chris Mohler for Kuler's palette 
+exports][ORIGINAL]. It was updated by Roy Curtis in 2018 [after an issue report on reddit
+by /u/Adderbox76][REDDIT].
+
+This plugin allows ASE palettes exported from [Adobe's Color Creative Cloud (formerly
+Kuler)][KULER] to be converted to GPL files and imported into GIMP.
 
 # Installation
 
@@ -49,6 +53,7 @@ References used for the ASE format:
 
 [ORIGINAL]: http://registry.gimp.org/node/10325
 [REDDIT]: https://www.reddit.com/r/GIMP/comments/80t574/kuler_palettes_to_gpl/
+[KULER]: https://color.adobe.com/
 [1]: https://i.imgur.com/lvaIRTi.jpg
 [2]: https://i.imgur.com/BLrLMSo.jpg
 [3]: https://i.imgur.com/fbsU3Rx.jpg
